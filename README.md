@@ -1,4 +1,4 @@
-## 🛡️Unlocking Key Insights: Data-Driven Strategies for Shield Insurance Company
+### 🛡️Unlocking Key Insights: Data-Driven Strategies for Shield Insurance Company
 
 ### 🏢About Company
 Shield Insurance is an insurance provider in the insurance industry.The company provides the policies to the customers for their uncertainty and the expense of health issues to protect their financial stability.Shield insurance policies can reduce customers' burdens and worries.
@@ -24,5 +24,5 @@ Power BI
 - **Interaction Insights:** Explore how different age groups engage with the company and their preferred sales modes.
 - **Preference Analysis:** Examine sales modes and policy preferences across age groups to understand driving factors.
 
-[🔗 **View Dashboard**](https://lnkd.in/gUuhb9pt)
+[🔗 **View Project**](https://lnkd.in/gUuhb9pt)
 
